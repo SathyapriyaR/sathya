@@ -20,6 +20,8 @@ temp = a[i];
 a[i] = a[j];
 a[j] = temp;
 }
+printf("The ascending order is...");
+}
 c=n/2;
 for(i=0;i<n;i++)
 {
@@ -28,6 +30,5 @@ if(a[i]==a[c])
 printf("The median element is..");
 printf("%d\t", a[i]);
 }
-}
 return 0;
-]
+}
