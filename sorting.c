@@ -22,7 +22,7 @@ a[j] = temp;
 }
 }
 }
-printf("\The ascending order is..: ");
+printf("\nThe ascending order is..: ");
 for(i=0; i<n; i++)
 {
 printf("%d\t", a[i]);
