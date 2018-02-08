@@ -3,7 +3,7 @@
 void main()
 {
 int a,b;
-printf("\nEnter the value of a,b);
+printf("\nEnter the value of a,b");
 scanf("\n%d %d",&a,&b);
 a=a^b;
 b=a^b;
